@@ -1,2 +1,16 @@
-The most restaurants have one common problem which, unfortunately, has not yet been resolved. When customers want to visit the restaurant and eat in, there is a list of steps which they have to complete before they can receive their order. They first need to be seated, then a waiter must bring the menu and check on them a few times if they are ready to order. After they have made a choice, the waiter must pick up their order and only then the kitchen can start the preparation of the food. 
-Using the app, customers can decide what they want to order before even going to the restaurant and get an automatically generated QR code of the order. In the case of Pizza App, customers can pick the ingredients of their pizza and get a QR code generated for them. Then the waiter can scan the code while they are still being seated and the preparation of the food can begin immediately. This should significantly reduce the waiting time and increase the customer experience.
+# pizza_new_app
+
+A new Flutter application.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+
+For help getting started with Flutter, view our 
+[online documentation](https://flutter.io/docs), which offers tutorials, 
+samples, guidance on mobile development, and a full API reference.
